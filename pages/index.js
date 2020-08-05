@@ -1,8 +1,4 @@
-const Index = () => {
-    return(
-        hugo    
-    )
-}
+const Index = () => 'Hugo Carvalho Fullstack Developer'
 
 
 export default Index
